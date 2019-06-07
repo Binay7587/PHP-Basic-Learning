@@ -1,0 +1,52 @@
+1. Server connection
+2. DB selection
+3. SQL query
+4. Execute query
+5. Fetch Data
+
+
+// Relational Database Management Systems, RDBMS
+
+
+CRUD operation:
+	c => Create	
+		CREATE, 
+		INSERT
+
+	r => Read
+		SELECT
+
+	u => Update
+		UPDATE,
+		ALTER
+
+	d => Delete
+		DELETE,
+		DROP,
+		TRUNCATE
+
+
+Datatypes:
+	a. Number
+		unsigned(only positive), signed(negative to positive)
+
+		i. integer
+			intyint, smallint, mediumint, int, bigint
+			-127 to 126
+			0-255
+			1-256
+
+		ii. floating point/ float
+			float, double
+
+	b. String
+		char, varchar(255), text, longtext
+
+	c. Date Time
+		date, time, datetime, timestamp
+
+	d. Enum
+		Sunday
+		Sunday
+
+	e. Blob
